@@ -12,7 +12,7 @@ if(ISSET($_POST['submit'])){
 		$path = "files/".$file_name;
 		if($ukuran>1000)
 		{
-		$conn->query("INSERT INTO `file` VALUES('', '$name[0]', '$path', $ukuran)") or die(mysqli_error($conn));
+		$conn->query("INSERT INTO `file` VALUES('', '$name[0]', '$path', '$ukuran', date('Y-m-d H:i:s'))") or die(mysqli_error($conn));
 		move_uploaded_file($file_temp, $path);
 		if($conn){echo 'FILE BERHASIL DI UPLOAD';}
 		else{echo 'GAGAL MENGUPLOAD FILE';}

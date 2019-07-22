@@ -180,7 +180,8 @@
 					<th>No</th>
 					<th>File Name</th>
 					<th>Size</th>
-					<th>File Directory</th>
+					<th>Directory</th>
+					<th>Time</th>					
 					<th>Action</th>
 				  </tr>
 				</thead>
@@ -198,6 +199,7 @@
 					<td><?php echo $fetch['name']?></td>
 					<td><?php echo $fetch['size']?></td>
 					<td><?php echo $fetch['file']?></td>
+					<td><?php echo $fetch['timestamp']?></td>
 					<td><a href="download.php?file=<?php echo $name[1]?>" class="btn btn-primary"><span class="glyphicon glyphicon-download"></span> Download</a></td>
 				  </tr>
 				  <?php
