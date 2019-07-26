@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".MainActivity">
+
+    <com.rengwuxian.materialedittext.MaterialEditText
+        android:id="@+id/input_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Name"
+        android:inputType="textPersonName"
+        android:textSize="16sp"
+        app:met_floatingLabel="highlight" />
+
+    <com.rengwuxian.materialedittext.MaterialEditText
+        android:id="@+id/input_age"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Age"
+        android:inputType="number"
+        android:textSize="16sp"
+        app:met_floatingLabel="highlight" />
+
+    <com.rengwuxian.materialedittext.MaterialEditText
+        android:id="@+id/input_weight"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Weight (in kg)"
+        android:inputType="number"
+        android:textSize="16sp"
+        app:met_floatingLabel="highlight"
+        app:met_maxCharacters="2" />
+
+    <com.rengwuxian.materialedittext.MaterialEditText
+        android:id="@+id/input_height"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Height (in cm)"
+        android:inputType="number"
+        android:textSize="16sp"
+        app:met_floatingLabel="highlight" />
+
+    <com.rengwuxian.materialedittext.MaterialEditText
+        android:id="@+id/input_gender"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Gender"
+        android:inputType="textCapWords"
+        android:textSize="16sp"
+        app:met_floatingLabel="highlight" />
+
+    <Button
+        android:id="@+id/save_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="submit"
+        android:text="SUBMIT"
+        android:textAllCaps="true"
+        android:textSize="16sp" />
+
+</LinearLayout>

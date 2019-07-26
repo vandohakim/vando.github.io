@@ -1,3 +1,0 @@
-1. Dump data sales.sql ke database dengan phpMyAdmin
-2. Buka file tampilkan_data.php, kemudian ubah parameter server dan database
-3. Jalankan file tampilkan_data.php dengan browser
