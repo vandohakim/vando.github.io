@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -126,6 +127,61 @@ namespace CalculatorWPF
             this.Display.Text = "";
             this.input = string.Empty;
         }
+        static Boolean isOperator(char x)
+        {
+
+            switch (x)
+            {
+                case '+':
+                case '-':
+                case '/':
+                case '*':
+                    return true;
+            }
+            return false;
+        }
+
+        // Convert postfix to Prefix expression 
+        static String postToPre(String post_exp)
+        {
+            Stack s = new Stack();
+
+            // length of expression 
+            int length = post_exp.Length;
+
+            // reading from right to left 
+            for (int i = 0; i < length; i++)
+            {
+
+                // check if symbol is operator 
+                if (isOperator(post_exp[i]))
+                {
+
+                    // Pop two operands from stack 
+                    String op1 = (String)s.Peek();
+                    s.Pop();
+                    String op2 = (String)s.Peek();
+                    s.Pop();
+
+                    // concat the operands and operator 
+                    String temp = post_exp[i] + op2 + op1;
+
+                    // Push String temp back to stack 
+                    s.Push(temp);
+                }
+
+                // if symbol is an operand 
+                else
+                {
+
+                    // Push the operand to the stack 
+                    s.Push(post_exp[i] + "");
+                }
+            }
+
+            // stack[0] contains the Prefix expression 
+            return (String)s.Peek();
+        }
         private void Check_Click(object sender, RoutedEventArgs e)
         {
             Display_Result.Text = MathParser.EvalExpression(Display.Text.ToCharArray()).ToString();
@@ -134,10 +190,7 @@ namespace CalculatorWPF
 
             Display_Postorder.Text = InfixToPostfix(Display.Text);
 
-            string revString = ReverseAndCleanString(Display.Text);
-            string postFixRevStr = InFixToPostFix(revString);
-            string preFixStr = ReverseAndCleanString(postFixRevStr);
-            Display_Preorder.Text = preFixStr;
+            Display_Preorder.Text = postToPre(Display_Postorder.Text);
         }
 
         private void Datalist_Click(object sender, RoutedEventArgs e)
@@ -244,127 +297,6 @@ namespace CalculatorWPF
                     return 3;
             }
             return -1;
-        }
-
-        //===================================================================================//
-
-        public static void InFixToPreFix(string infixExpression)
-        {
-
-            if (infixExpression == null || infixExpression.Length == 0)
-                return;
-
-            Console.WriteLine("In-Fix Expression = {0}", infixExpression);
-
-            string revString = ReverseAndCleanString(infixExpression);
-            Console.WriteLine("Reversed In-Fix Expression = {0}", revString);
-            string postFixRevStr = InFixToPostFix(revString);
-            Console.WriteLine("Post-Fix Expression = {0}", postFixRevStr);
-            string preFixStr = ReverseAndCleanString(postFixRevStr);
-
-            Console.WriteLine("Pre-Fix Expression = {0}", preFixStr);
-            Console.WriteLine("");
-        }
-        //Time Complexity: O(n) Space Complexity: O(n)
-        public static string InFixToPostFix(string infixExpression)
-        {
-            if (infixExpression == null || infixExpression.Length == 0)
-                return string.Empty;
-
-            StringBuilder strBuilder = new StringBuilder();
-            Stack<char> s = new Stack<char>();
-
-            for (int i = 0; i <= infixExpression.Length - 1; i++)
-            {
-                if (infixExpression[i] >= '0' && infixExpression[i] <= '9')
-                {
-                    strBuilder.Append(infixExpression[i]);
-                }
-                else if (infixExpression[i] == '(')
-                {
-                    s.Push(infixExpression[i]);
-                }
-                else if (infixExpression[i] == ')')
-                {
-                    while (s.Count > 0 && s.Peek() != '(')
-                    {
-                        strBuilder.Append(s.Pop());
-                    }
-                    s.Pop();
-                }
-                else if (infixExpression[i] == '+' || infixExpression[i] == '-'
-                         || infixExpression[i] == '/' || infixExpression[i] == '*')
-                {
-
-                    while (s.Count > 0 && HasSamePrecedent(infixExpression[i], s.Peek()) == true)
-                    {
-                        strBuilder.Append(s.Pop());
-                    }
-
-                    while (s.Count > 0 && IncomingSymbol_IsLowPrecedent(infixExpression[i], s.Peek()) == true)
-                    {
-                        strBuilder.Append(s.Pop());
-                    }
-
-                    s.Push(infixExpression[i]);
-                }
-            }
-
-            while (s.Count != 0)
-            {
-                strBuilder.Append(s.Pop());
-            }
-
-            return strBuilder.ToString();
-        }
-
-        // opA = Incoming Symbol , opB = Top item on stack
-        public static bool HasSamePrecedent(char opA, char opB)
-        {
-            if ((opA == '+' || opA == '-') && (opB == '+' || opB == '-'))
-            {
-                return true;
-            }
-            else if ((opA == '*' || opA == '/') && (opB == '*' || opB == '/'))
-            {
-                return true;
-            }
-            else
-            {
-                return false;
-            }
-        }
-        // opA = Incoming Symbol , opB = Top item on stack
-        public static bool IncomingSymbol_IsLowPrecedent(char opA, char opB)
-        {
-            if ((opA == '+' || opA == '-') && (opB == '*' || opB == '/'))
-            {
-                return true;
-            }
-            else
-                return false;
-        }
-    
-        public static string ReverseAndCleanString(string str)
-        {
-            char[] inputarray = str.ToCharArray();
-            Array.Reverse(inputarray);
-            for (int i = 0; i <= inputarray.Length - 1; i++)
-            {
-                if (inputarray[i] == '(')
-                {
-                    inputarray[i] = ')';
-                }
-                else if (inputarray[i] == ')')
-                {
-                    inputarray[i] = '(';
-                }
-                else
-                {
-                    continue;
-                }
-            }
-            return new string(inputarray);
         }
     }
     class MathParser

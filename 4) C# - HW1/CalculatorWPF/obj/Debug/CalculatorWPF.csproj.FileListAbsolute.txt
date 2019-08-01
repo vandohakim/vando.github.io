@@ -61,3 +61,49 @@ D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\4) C# - HW1\CalculatorW
 D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\4) C# - HW1\CalculatorWPF\obj\Debug\CalculatorWPF.csproj.CopyComplete
 D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\4) C# - HW1\CalculatorWPF\obj\Debug\CalculatorWPF.exe
 D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\4) C# - HW1\CalculatorWPF\obj\Debug\CalculatorWPF.pdb
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\4) C# - HW1 (Prefix still wrong)\CalculatorWPF\bin\Debug\CalculatorWPF.exe.config
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\4) C# - HW1 (Prefix still wrong)\CalculatorWPF\bin\Debug\CalculatorWPF.exe
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\4) C# - HW1 (Prefix still wrong)\CalculatorWPF\bin\Debug\CalculatorWPF.pdb
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\4) C# - HW1 (Prefix still wrong)\CalculatorWPF\bin\Debug\BouncyCastle.Crypto.dll
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\4) C# - HW1 (Prefix still wrong)\CalculatorWPF\bin\Debug\Google.Protobuf.dll
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\4) C# - HW1 (Prefix still wrong)\CalculatorWPF\bin\Debug\MySql.Data.dll
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\4) C# - HW1 (Prefix still wrong)\CalculatorWPF\bin\Debug\Renci.SshNet.dll
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\4) C# - HW1 (Prefix still wrong)\CalculatorWPF\bin\Debug\Google.Protobuf.xml
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\4) C# - HW1 (Prefix still wrong)\CalculatorWPF\bin\Debug\MySql.Data.xml
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\4) C# - HW1 (Prefix still wrong)\CalculatorWPF\bin\Debug\Renci.SshNet.xml
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\4) C# - HW1 (Prefix still wrong)\CalculatorWPF\obj\Debug\CalculatorWPF.csprojAssemblyReference.cache
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\4) C# - HW1 (Prefix still wrong)\CalculatorWPF\obj\Debug\MainWindow.g.cs
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\4) C# - HW1 (Prefix still wrong)\CalculatorWPF\obj\Debug\App.g.cs
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\4) C# - HW1 (Prefix still wrong)\CalculatorWPF\obj\Debug\CalculatorWPF_MarkupCompile.cache
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\4) C# - HW1 (Prefix still wrong)\CalculatorWPF\obj\Debug\CalculatorWPF_MarkupCompile.lref
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\4) C# - HW1 (Prefix still wrong)\CalculatorWPF\obj\Debug\MainWindow.baml
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\4) C# - HW1 (Prefix still wrong)\CalculatorWPF\obj\Debug\CalculatorWPF.g.resources
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\4) C# - HW1 (Prefix still wrong)\CalculatorWPF\obj\Debug\CalculatorWPF.Properties.Resources.resources
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\4) C# - HW1 (Prefix still wrong)\CalculatorWPF\obj\Debug\CalculatorWPF.csproj.GenerateResource.cache
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\4) C# - HW1 (Prefix still wrong)\CalculatorWPF\obj\Debug\CalculatorWPF.csproj.CoreCompileInputs.cache
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\4) C# - HW1 (Prefix still wrong)\CalculatorWPF\obj\Debug\CalculatorWPF.csproj.CopyComplete
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\4) C# - HW1 (Prefix still wrong)\CalculatorWPF\obj\Debug\CalculatorWPF.exe
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\4) C# - HW1 (Prefix still wrong)\CalculatorWPF\obj\Debug\CalculatorWPF.pdb
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\4) C# - HW1 (Prefix still wrong) - Revisi 1 August\CalculatorWPF\bin\Debug\CalculatorWPF.exe.config
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\4) C# - HW1 (Prefix still wrong) - Revisi 1 August\CalculatorWPF\bin\Debug\CalculatorWPF.exe
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\4) C# - HW1 (Prefix still wrong) - Revisi 1 August\CalculatorWPF\bin\Debug\CalculatorWPF.pdb
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\4) C# - HW1 (Prefix still wrong) - Revisi 1 August\CalculatorWPF\bin\Debug\BouncyCastle.Crypto.dll
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\4) C# - HW1 (Prefix still wrong) - Revisi 1 August\CalculatorWPF\bin\Debug\Google.Protobuf.dll
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\4) C# - HW1 (Prefix still wrong) - Revisi 1 August\CalculatorWPF\bin\Debug\MySql.Data.dll
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\4) C# - HW1 (Prefix still wrong) - Revisi 1 August\CalculatorWPF\bin\Debug\Renci.SshNet.dll
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\4) C# - HW1 (Prefix still wrong) - Revisi 1 August\CalculatorWPF\bin\Debug\Google.Protobuf.xml
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\4) C# - HW1 (Prefix still wrong) - Revisi 1 August\CalculatorWPF\bin\Debug\MySql.Data.xml
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\4) C# - HW1 (Prefix still wrong) - Revisi 1 August\CalculatorWPF\bin\Debug\Renci.SshNet.xml
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\4) C# - HW1 (Prefix still wrong) - Revisi 1 August\CalculatorWPF\obj\Debug\CalculatorWPF.csprojAssemblyReference.cache
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\4) C# - HW1 (Prefix still wrong) - Revisi 1 August\CalculatorWPF\obj\Debug\MainWindow.g.cs
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\4) C# - HW1 (Prefix still wrong) - Revisi 1 August\CalculatorWPF\obj\Debug\App.g.cs
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\4) C# - HW1 (Prefix still wrong) - Revisi 1 August\CalculatorWPF\obj\Debug\CalculatorWPF_MarkupCompile.cache
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\4) C# - HW1 (Prefix still wrong) - Revisi 1 August\CalculatorWPF\obj\Debug\CalculatorWPF_MarkupCompile.lref
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\4) C# - HW1 (Prefix still wrong) - Revisi 1 August\CalculatorWPF\obj\Debug\MainWindow.baml
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\4) C# - HW1 (Prefix still wrong) - Revisi 1 August\CalculatorWPF\obj\Debug\CalculatorWPF.g.resources
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\4) C# - HW1 (Prefix still wrong) - Revisi 1 August\CalculatorWPF\obj\Debug\CalculatorWPF.Properties.Resources.resources
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\4) C# - HW1 (Prefix still wrong) - Revisi 1 August\CalculatorWPF\obj\Debug\CalculatorWPF.csproj.GenerateResource.cache
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\4) C# - HW1 (Prefix still wrong) - Revisi 1 August\CalculatorWPF\obj\Debug\CalculatorWPF.csproj.CoreCompileInputs.cache
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\4) C# - HW1 (Prefix still wrong) - Revisi 1 August\CalculatorWPF\obj\Debug\CalculatorWPF.csproj.CopyComplete
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\4) C# - HW1 (Prefix still wrong) - Revisi 1 August\CalculatorWPF\obj\Debug\CalculatorWPF.exe
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\4) C# - HW1 (Prefix still wrong) - Revisi 1 August\CalculatorWPF\obj\Debug\CalculatorWPF.pdb

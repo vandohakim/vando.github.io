@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Waktu pembuatan: 28 Jul 2019 pada 17.48
+-- Waktu pembuatan: 01 Agu 2019 pada 10.25
 -- Versi server: 10.3.16-MariaDB
 -- Versi PHP: 7.3.7
 
@@ -43,7 +43,8 @@ CREATE TABLE `csharphw2` (
 
 INSERT INTO `csharphw2` (`id`, `display`, `postorder`, `preorder`, `decimalresult`, `binaryresult`) VALUES
 (37, '5*4+8*7', '54*87*+', '+*54*87', 76, 1001100),
-(38, '2/2+3*6', '22/36*+', '+/22*36', 19, 10011);
+(39, '5*8+3-3', '58*3+3-', '+*58-33', 40, 101000),
+(41, '5*4+8*7/7', '54*87*7/+', '+*54/*877', 28, 11100);
 
 --
 -- Indexes for dumped tables
@@ -63,7 +64,7 @@ ALTER TABLE `csharphw2`
 -- AUTO_INCREMENT untuk tabel `csharphw2`
 --
 ALTER TABLE `csharphw2`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=39;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=42;
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
