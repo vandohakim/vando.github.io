@@ -1,0 +1,11 @@
+D:\Latihan Microsoft\speechtest2\speechtest2\obj\Debug\netcoreapp2.1\speechtest2.csprojAssemblyReference.cache
+D:\Latihan Microsoft\speechtest2\speechtest2\obj\Debug\netcoreapp2.1\speechtest2.csproj.CoreCompileInputs.cache
+D:\Latihan Microsoft\speechtest2\speechtest2\obj\Debug\netcoreapp2.1\speechtest2.AssemblyInfoInputs.cache
+D:\Latihan Microsoft\speechtest2\speechtest2\obj\Debug\netcoreapp2.1\speechtest2.AssemblyInfo.cs
+D:\Latihan Microsoft\speechtest2\speechtest2\bin\Debug\netcoreapp2.1\speechtest2.deps.json
+D:\Latihan Microsoft\speechtest2\speechtest2\bin\Debug\netcoreapp2.1\speechtest2.runtimeconfig.json
+D:\Latihan Microsoft\speechtest2\speechtest2\bin\Debug\netcoreapp2.1\speechtest2.runtimeconfig.dev.json
+D:\Latihan Microsoft\speechtest2\speechtest2\bin\Debug\netcoreapp2.1\speechtest2.dll
+D:\Latihan Microsoft\speechtest2\speechtest2\bin\Debug\netcoreapp2.1\speechtest2.pdb
+D:\Latihan Microsoft\speechtest2\speechtest2\obj\Debug\netcoreapp2.1\speechtest2.dll
+D:\Latihan Microsoft\speechtest2\speechtest2\obj\Debug\netcoreapp2.1\speechtest2.pdb
