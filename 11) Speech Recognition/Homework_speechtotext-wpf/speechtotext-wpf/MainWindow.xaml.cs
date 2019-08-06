@@ -401,6 +401,34 @@ namespace MicrosoftSpeechSDKSamples.WpfSpeechRecognitionSample
 
         }
 
+        private async Task RecognizedEventHandlerAsync(SpeechRecognitionEventArgs e, RecoType rt)
+        {
+            TextBox log;
+            if (rt == RecoType.Base)
+            {
+                log = this.baseModelLogText;
+                this.SetCurrentText(this.baseModelCurrentText, e.Result.Text);
+                if (e.Result.Text.Equals("What's the weather like?"))
+                {
+                    var config = SpeechConfig.FromSubscription(this.SubscriptionKey, this.Region);
+                    config.SpeechRecognitionLanguage = this.RecognitionLanguage;
+
+                    SpeechSynthesizer basicRecognizer;
+                    if (this.UseMicrophone)
+                    {
+                        using (basicRecognizer = new SpeechSynthesizer(config))
+                        {
+                            await basicRecognizer.SpeakTextAsync("cuacanya panas banget boo!");
+                        }
+                    }
+                }
+            }
+            else {
+                log = this.customModelLogText;
+                this.SetCurrentText(this.customModelCurrentText, e.Result.Text);
+            }
+        }
+
         /// <summary>
         /// Logs Canceled events
         /// And sets the TaskCompletionSource to 0, in order to trigger Recognition Stop
@@ -596,13 +624,17 @@ namespace MicrosoftSpeechSDKSamples.WpfSpeechRecognitionSample
             this.Dispatcher.Invoke(() =>
             {
                 textBlock.Text = text;
-                if (textBlock.Text == "What's the weather like?")
+                /*if (textBlock.Text == "What's the weather like?")
                 {
                     customModelCurrentText.Text = "The weather is hen hao";
-                }
-                else if (textBlock.Text == "What is the best University?")
+                }*/
+                if (textBlock.Text == "What is the best University?")
                 {
                     customModelCurrentText.Text = "It's National Central University!";
+                }
+                else if (textBlock.Text == "What is your name?")
+                {
+                    customModelCurrentText.Text = "My name is Vando";
                 }
                 else { customModelCurrentText.Text = "....???"; }
             });

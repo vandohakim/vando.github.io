@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Latihan Microsoft\\speechtest1\\speechtest1\\speechtest1.csproj",
+      "projectUniqueName": "D:\\HCI_Learning Lab\\Summer Vocation\\vandohakim.github.io\\11) Speech Recognition\\Exercise_1_speechtest1\\speechtest1\\speechtest1.csproj",
       "projectName": "speechtest1",
-      "projectPath": "D:\\Latihan Microsoft\\speechtest1\\speechtest1\\speechtest1.csproj",
+      "projectPath": "D:\\HCI_Learning Lab\\Summer Vocation\\vandohakim.github.io\\11) Speech Recognition\\Exercise_1_speechtest1\\speechtest1\\speechtest1.csproj",
       "packagesPath": "C:\\Users\\Vando Hai-jin\\.nuget\\packages\\",
-      "outputPath": "D:\\Latihan Microsoft\\speechtest1\\speechtest1\\obj\\",
+      "outputPath": "D:\\HCI_Learning Lab\\Summer Vocation\\vandohakim.github.io\\11) Speech Recognition\\Exercise_1_speechtest1\\speechtest1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

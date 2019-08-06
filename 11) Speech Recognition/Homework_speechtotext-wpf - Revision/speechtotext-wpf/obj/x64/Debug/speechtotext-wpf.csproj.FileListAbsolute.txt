@@ -1,0 +1,93 @@
+C:\Users\Vando Hai-jin\Downloads\Compressed\cognitive-services-speech-sdk-master\samples\csharp\dotnet-windows\speechtotext-wpf\speechtotext-wpf\objd\amd64\whatstheweatherlike.wav
+C:\Users\Vando Hai-jin\Downloads\Compressed\cognitive-services-speech-sdk-master\samples\csharp\dotnet-windows\speechtotext-wpf\speechtotext-wpf\objd\amd64\speechtotext-wpf.exe.config
+C:\Users\Vando Hai-jin\Downloads\Compressed\cognitive-services-speech-sdk-master\samples\csharp\dotnet-windows\speechtotext-wpf\speechtotext-wpf\objd\amd64\speechtotext-wpf.exe
+C:\Users\Vando Hai-jin\Downloads\Compressed\cognitive-services-speech-sdk-master\samples\csharp\dotnet-windows\speechtotext-wpf\speechtotext-wpf\objd\amd64\speechtotext-wpf.pdb
+C:\Users\Vando Hai-jin\Downloads\Compressed\cognitive-services-speech-sdk-master\samples\csharp\dotnet-windows\speechtotext-wpf\speechtotext-wpf\objd\amd64\Microsoft.CognitiveServices.Speech.csharp.dll
+C:\Users\Vando Hai-jin\Downloads\Compressed\cognitive-services-speech-sdk-master\samples\csharp\dotnet-windows\speechtotext-wpf\speechtotext-wpf\objd\amd64\Microsoft.CognitiveServices.Speech.csharp.xml
+C:\Users\Vando Hai-jin\Downloads\Compressed\cognitive-services-speech-sdk-master\samples\csharp\dotnet-windows\speechtotext-wpf\speechtotext-wpf\obj\x64\Debug\speechtotext-wpf.csprojAssemblyReference.cache
+C:\Users\Vando Hai-jin\Downloads\Compressed\cognitive-services-speech-sdk-master\samples\csharp\dotnet-windows\speechtotext-wpf\speechtotext-wpf\obj\x64\Debug\MainWindow.baml
+C:\Users\Vando Hai-jin\Downloads\Compressed\cognitive-services-speech-sdk-master\samples\csharp\dotnet-windows\speechtotext-wpf\speechtotext-wpf\obj\x64\Debug\MainWindow.g.cs
+C:\Users\Vando Hai-jin\Downloads\Compressed\cognitive-services-speech-sdk-master\samples\csharp\dotnet-windows\speechtotext-wpf\speechtotext-wpf\obj\x64\Debug\App.g.cs
+C:\Users\Vando Hai-jin\Downloads\Compressed\cognitive-services-speech-sdk-master\samples\csharp\dotnet-windows\speechtotext-wpf\speechtotext-wpf\obj\x64\Debug\speechtotext-wpf_Content.g.cs
+C:\Users\Vando Hai-jin\Downloads\Compressed\cognitive-services-speech-sdk-master\samples\csharp\dotnet-windows\speechtotext-wpf\speechtotext-wpf\obj\x64\Debug\speechtotext-wpf_MarkupCompile.cache
+C:\Users\Vando Hai-jin\Downloads\Compressed\cognitive-services-speech-sdk-master\samples\csharp\dotnet-windows\speechtotext-wpf\speechtotext-wpf\obj\x64\Debug\speechtotext-wpf.g.resources
+C:\Users\Vando Hai-jin\Downloads\Compressed\cognitive-services-speech-sdk-master\samples\csharp\dotnet-windows\speechtotext-wpf\speechtotext-wpf\obj\x64\Debug\speechtotext-wpf.csproj.CoreCompileInputs.cache
+C:\Users\Vando Hai-jin\Downloads\Compressed\cognitive-services-speech-sdk-master\samples\csharp\dotnet-windows\speechtotext-wpf\speechtotext-wpf\obj\x64\Debug\speechtotext-wpf.csproj.CopyComplete
+C:\Users\Vando Hai-jin\Downloads\Compressed\cognitive-services-speech-sdk-master\samples\csharp\dotnet-windows\speechtotext-wpf\speechtotext-wpf\obj\x64\Debug\speechtotext-wpf.exe
+C:\Users\Vando Hai-jin\Downloads\Compressed\cognitive-services-speech-sdk-master\samples\csharp\dotnet-windows\speechtotext-wpf\speechtotext-wpf\obj\x64\Debug\speechtotext-wpf.pdb
+D:\speechtotext-wpf\speechtotext-wpf\objd\amd64\whatstheweatherlike.wav
+D:\speechtotext-wpf\speechtotext-wpf\objd\amd64\Microsoft.CognitiveServices.Speech.core.dll
+D:\speechtotext-wpf\speechtotext-wpf\objd\amd64\Microsoft.CognitiveServices.Speech.extension.kws.dll
+D:\speechtotext-wpf\speechtotext-wpf\objd\amd64\speechtotext-wpf.exe.config
+D:\speechtotext-wpf\speechtotext-wpf\objd\amd64\speechtotext-wpf.exe
+D:\speechtotext-wpf\speechtotext-wpf\objd\amd64\speechtotext-wpf.pdb
+D:\speechtotext-wpf\speechtotext-wpf\objd\amd64\Microsoft.CognitiveServices.Speech.csharp.dll
+D:\speechtotext-wpf\speechtotext-wpf\objd\amd64\Microsoft.CognitiveServices.Speech.csharp.xml
+D:\speechtotext-wpf\speechtotext-wpf\obj\x64\Debug\speechtotext-wpf.csprojAssemblyReference.cache
+D:\speechtotext-wpf\speechtotext-wpf\obj\x64\Debug\MainWindow.baml
+D:\speechtotext-wpf\speechtotext-wpf\obj\x64\Debug\MainWindow.g.cs
+D:\speechtotext-wpf\speechtotext-wpf\obj\x64\Debug\App.g.cs
+D:\speechtotext-wpf\speechtotext-wpf\obj\x64\Debug\speechtotext-wpf_Content.g.cs
+D:\speechtotext-wpf\speechtotext-wpf\obj\x64\Debug\speechtotext-wpf_MarkupCompile.cache
+D:\speechtotext-wpf\speechtotext-wpf\obj\x64\Debug\speechtotext-wpf.g.resources
+D:\speechtotext-wpf\speechtotext-wpf\obj\x64\Debug\speechtotext-wpf.csproj.CoreCompileInputs.cache
+D:\speechtotext-wpf\speechtotext-wpf\obj\x64\Debug\speechtotext-wpf.csproj.CopyComplete
+D:\speechtotext-wpf\speechtotext-wpf\obj\x64\Debug\speechtotext-wpf.exe
+D:\speechtotext-wpf\speechtotext-wpf\obj\x64\Debug\speechtotext-wpf.pdb
+D:\Latihan Microsoft\speechtotext-wpf\speechtotext-wpf\objd\amd64\whatstheweatherlike.wav
+D:\Latihan Microsoft\speechtotext-wpf\speechtotext-wpf\objd\amd64\Microsoft.CognitiveServices.Speech.core.dll
+D:\Latihan Microsoft\speechtotext-wpf\speechtotext-wpf\objd\amd64\Microsoft.CognitiveServices.Speech.extension.kws.dll
+D:\Latihan Microsoft\speechtotext-wpf\speechtotext-wpf\objd\amd64\speechtotext-wpf.exe.config
+D:\Latihan Microsoft\speechtotext-wpf\speechtotext-wpf\objd\amd64\speechtotext-wpf.exe
+D:\Latihan Microsoft\speechtotext-wpf\speechtotext-wpf\objd\amd64\speechtotext-wpf.pdb
+D:\Latihan Microsoft\speechtotext-wpf\speechtotext-wpf\objd\amd64\Microsoft.CognitiveServices.Speech.csharp.dll
+D:\Latihan Microsoft\speechtotext-wpf\speechtotext-wpf\objd\amd64\Microsoft.CognitiveServices.Speech.csharp.xml
+D:\Latihan Microsoft\speechtotext-wpf\speechtotext-wpf\obj\x64\Debug\speechtotext-wpf.csprojAssemblyReference.cache
+D:\Latihan Microsoft\speechtotext-wpf\speechtotext-wpf\obj\x64\Debug\MainWindow.baml
+D:\Latihan Microsoft\speechtotext-wpf\speechtotext-wpf\obj\x64\Debug\MainWindow.g.cs
+D:\Latihan Microsoft\speechtotext-wpf\speechtotext-wpf\obj\x64\Debug\App.g.cs
+D:\Latihan Microsoft\speechtotext-wpf\speechtotext-wpf\obj\x64\Debug\speechtotext-wpf_Content.g.cs
+D:\Latihan Microsoft\speechtotext-wpf\speechtotext-wpf\obj\x64\Debug\speechtotext-wpf_MarkupCompile.cache
+D:\Latihan Microsoft\speechtotext-wpf\speechtotext-wpf\obj\x64\Debug\speechtotext-wpf.g.resources
+D:\Latihan Microsoft\speechtotext-wpf\speechtotext-wpf\obj\x64\Debug\speechtotext-wpf.csproj.CoreCompileInputs.cache
+D:\Latihan Microsoft\speechtotext-wpf\speechtotext-wpf\obj\x64\Debug\speechtotext-wpf.csproj.CopyComplete
+D:\Latihan Microsoft\speechtotext-wpf\speechtotext-wpf\obj\x64\Debug\speechtotext-wpf.exe
+D:\Latihan Microsoft\speechtotext-wpf\speechtotext-wpf\obj\x64\Debug\speechtotext-wpf.pdb
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\11) Speech Recognition\Homework_speechtotext-wpf\speechtotext-wpf\objd\amd64\whatstheweatherlike.wav
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\11) Speech Recognition\Homework_speechtotext-wpf\speechtotext-wpf\objd\amd64\Microsoft.CognitiveServices.Speech.core.dll
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\11) Speech Recognition\Homework_speechtotext-wpf\speechtotext-wpf\objd\amd64\Microsoft.CognitiveServices.Speech.extension.kws.dll
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\11) Speech Recognition\Homework_speechtotext-wpf\speechtotext-wpf\objd\amd64\speechtotext-wpf.exe.config
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\11) Speech Recognition\Homework_speechtotext-wpf\speechtotext-wpf\objd\amd64\speechtotext-wpf.exe
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\11) Speech Recognition\Homework_speechtotext-wpf\speechtotext-wpf\objd\amd64\speechtotext-wpf.pdb
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\11) Speech Recognition\Homework_speechtotext-wpf\speechtotext-wpf\objd\amd64\Microsoft.CognitiveServices.Speech.csharp.dll
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\11) Speech Recognition\Homework_speechtotext-wpf\speechtotext-wpf\objd\amd64\Microsoft.CognitiveServices.Speech.csharp.xml
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\11) Speech Recognition\Homework_speechtotext-wpf\speechtotext-wpf\obj\x64\Debug\speechtotext-wpf.csprojAssemblyReference.cache
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\11) Speech Recognition\Homework_speechtotext-wpf\speechtotext-wpf\obj\x64\Debug\MainWindow.baml
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\11) Speech Recognition\Homework_speechtotext-wpf\speechtotext-wpf\obj\x64\Debug\MainWindow.g.cs
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\11) Speech Recognition\Homework_speechtotext-wpf\speechtotext-wpf\obj\x64\Debug\App.g.cs
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\11) Speech Recognition\Homework_speechtotext-wpf\speechtotext-wpf\obj\x64\Debug\speechtotext-wpf_Content.g.cs
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\11) Speech Recognition\Homework_speechtotext-wpf\speechtotext-wpf\obj\x64\Debug\speechtotext-wpf_MarkupCompile.cache
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\11) Speech Recognition\Homework_speechtotext-wpf\speechtotext-wpf\obj\x64\Debug\speechtotext-wpf.g.resources
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\11) Speech Recognition\Homework_speechtotext-wpf\speechtotext-wpf\obj\x64\Debug\speechtotext-wpf.csproj.CoreCompileInputs.cache
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\11) Speech Recognition\Homework_speechtotext-wpf\speechtotext-wpf\obj\x64\Debug\speechtotext-wpf.csproj.CopyComplete
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\11) Speech Recognition\Homework_speechtotext-wpf\speechtotext-wpf\obj\x64\Debug\speechtotext-wpf.exe
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\11) Speech Recognition\Homework_speechtotext-wpf\speechtotext-wpf\obj\x64\Debug\speechtotext-wpf.pdb
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\11) Speech Recognition\Homework_speechtotext-wpf - Revision\speechtotext-wpf\objd\amd64\whatstheweatherlike.wav
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\11) Speech Recognition\Homework_speechtotext-wpf - Revision\speechtotext-wpf\objd\amd64\Microsoft.CognitiveServices.Speech.core.dll
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\11) Speech Recognition\Homework_speechtotext-wpf - Revision\speechtotext-wpf\objd\amd64\Microsoft.CognitiveServices.Speech.extension.kws.dll
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\11) Speech Recognition\Homework_speechtotext-wpf - Revision\speechtotext-wpf\objd\amd64\speechtotext-wpf.exe.config
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\11) Speech Recognition\Homework_speechtotext-wpf - Revision\speechtotext-wpf\objd\amd64\speechtotext-wpf.exe
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\11) Speech Recognition\Homework_speechtotext-wpf - Revision\speechtotext-wpf\objd\amd64\speechtotext-wpf.pdb
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\11) Speech Recognition\Homework_speechtotext-wpf - Revision\speechtotext-wpf\objd\amd64\Microsoft.CognitiveServices.Speech.csharp.dll
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\11) Speech Recognition\Homework_speechtotext-wpf - Revision\speechtotext-wpf\objd\amd64\Microsoft.CognitiveServices.Speech.csharp.xml
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\11) Speech Recognition\Homework_speechtotext-wpf - Revision\speechtotext-wpf\obj\x64\Debug\MainWindow.baml
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\11) Speech Recognition\Homework_speechtotext-wpf - Revision\speechtotext-wpf\obj\x64\Debug\MainWindow.g.cs
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\11) Speech Recognition\Homework_speechtotext-wpf - Revision\speechtotext-wpf\obj\x64\Debug\App.g.cs
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\11) Speech Recognition\Homework_speechtotext-wpf - Revision\speechtotext-wpf\obj\x64\Debug\speechtotext-wpf_Content.g.cs
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\11) Speech Recognition\Homework_speechtotext-wpf - Revision\speechtotext-wpf\obj\x64\Debug\speechtotext-wpf_MarkupCompile.cache
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\11) Speech Recognition\Homework_speechtotext-wpf - Revision\speechtotext-wpf\obj\x64\Debug\speechtotext-wpf.g.resources
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\11) Speech Recognition\Homework_speechtotext-wpf - Revision\speechtotext-wpf\obj\x64\Debug\speechtotext-wpf.csproj.CoreCompileInputs.cache
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\11) Speech Recognition\Homework_speechtotext-wpf - Revision\speechtotext-wpf\obj\x64\Debug\speechtotext-wpf.csproj.CopyComplete
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\11) Speech Recognition\Homework_speechtotext-wpf - Revision\speechtotext-wpf\obj\x64\Debug\speechtotext-wpf.exe
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\11) Speech Recognition\Homework_speechtotext-wpf - Revision\speechtotext-wpf\obj\x64\Debug\speechtotext-wpf.pdb
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\11) Speech Recognition\Homework_speechtotext-wpf - Revision\speechtotext-wpf\obj\x64\Debug\speechtotext-wpf.csprojAssemblyReference.cache
