@@ -1,0 +1,30 @@
+C:\Users\Vando Hai-jin\Downloads\ServerCSharp\ServerCSharp\bin\Debug\ServerCSharp.exe.config
+C:\Users\Vando Hai-jin\Downloads\ServerCSharp\ServerCSharp\bin\Debug\ServerCSharp.exe
+C:\Users\Vando Hai-jin\Downloads\ServerCSharp\ServerCSharp\bin\Debug\ServerCSharp.pdb
+C:\Users\Vando Hai-jin\Downloads\ServerCSharp\ServerCSharp\obj\Debug\ServerCSharp.csprojAssemblyReference.cache
+C:\Users\Vando Hai-jin\Downloads\ServerCSharp\ServerCSharp\obj\Debug\MainWindow.g.cs
+C:\Users\Vando Hai-jin\Downloads\ServerCSharp\ServerCSharp\obj\Debug\App.g.cs
+C:\Users\Vando Hai-jin\Downloads\ServerCSharp\ServerCSharp\obj\Debug\ServerCSharp_MarkupCompile.cache
+C:\Users\Vando Hai-jin\Downloads\ServerCSharp\ServerCSharp\obj\Debug\ServerCSharp_MarkupCompile.lref
+C:\Users\Vando Hai-jin\Downloads\ServerCSharp\ServerCSharp\obj\Debug\MainWindow.baml
+C:\Users\Vando Hai-jin\Downloads\ServerCSharp\ServerCSharp\obj\Debug\ServerCSharp.g.resources
+C:\Users\Vando Hai-jin\Downloads\ServerCSharp\ServerCSharp\obj\Debug\ServerCSharp.Properties.Resources.resources
+C:\Users\Vando Hai-jin\Downloads\ServerCSharp\ServerCSharp\obj\Debug\ServerCSharp.csproj.GenerateResource.cache
+C:\Users\Vando Hai-jin\Downloads\ServerCSharp\ServerCSharp\obj\Debug\ServerCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Vando Hai-jin\Downloads\ServerCSharp\ServerCSharp\obj\Debug\ServerCSharp.exe
+C:\Users\Vando Hai-jin\Downloads\ServerCSharp\ServerCSharp\obj\Debug\ServerCSharp.pdb
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\13_Android - HW4 [AndroidClient ~ C#Server]\CSharpServer\ServerCSharp\bin\Debug\ServerCSharp.exe.config
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\13_Android - HW4 [AndroidClient ~ C#Server]\CSharpServer\ServerCSharp\bin\Debug\ServerCSharp.exe
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\13_Android - HW4 [AndroidClient ~ C#Server]\CSharpServer\ServerCSharp\bin\Debug\ServerCSharp.pdb
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\13_Android - HW4 [AndroidClient ~ C#Server]\CSharpServer\ServerCSharp\obj\Debug\ServerCSharp.csprojAssemblyReference.cache
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\13_Android - HW4 [AndroidClient ~ C#Server]\CSharpServer\ServerCSharp\obj\Debug\MainWindow.g.cs
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\13_Android - HW4 [AndroidClient ~ C#Server]\CSharpServer\ServerCSharp\obj\Debug\App.g.cs
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\13_Android - HW4 [AndroidClient ~ C#Server]\CSharpServer\ServerCSharp\obj\Debug\ServerCSharp_MarkupCompile.cache
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\13_Android - HW4 [AndroidClient ~ C#Server]\CSharpServer\ServerCSharp\obj\Debug\ServerCSharp_MarkupCompile.lref
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\13_Android - HW4 [AndroidClient ~ C#Server]\CSharpServer\ServerCSharp\obj\Debug\MainWindow.baml
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\13_Android - HW4 [AndroidClient ~ C#Server]\CSharpServer\ServerCSharp\obj\Debug\ServerCSharp.g.resources
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\13_Android - HW4 [AndroidClient ~ C#Server]\CSharpServer\ServerCSharp\obj\Debug\ServerCSharp.Properties.Resources.resources
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\13_Android - HW4 [AndroidClient ~ C#Server]\CSharpServer\ServerCSharp\obj\Debug\ServerCSharp.csproj.GenerateResource.cache
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\13_Android - HW4 [AndroidClient ~ C#Server]\CSharpServer\ServerCSharp\obj\Debug\ServerCSharp.csproj.CoreCompileInputs.cache
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\13_Android - HW4 [AndroidClient ~ C#Server]\CSharpServer\ServerCSharp\obj\Debug\ServerCSharp.exe
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\13_Android - HW4 [AndroidClient ~ C#Server]\CSharpServer\ServerCSharp\obj\Debug\ServerCSharp.pdb
