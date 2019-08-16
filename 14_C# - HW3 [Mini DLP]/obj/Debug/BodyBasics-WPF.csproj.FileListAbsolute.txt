@@ -1,0 +1,51 @@
+D:\Kinect\BodyBasics-WPF\bin\AnyCPU\Debug\BodyBasics-WPF.exe.config
+D:\Kinect\BodyBasics-WPF\bin\AnyCPU\Debug\BodyBasics-WPF.exe
+D:\Kinect\BodyBasics-WPF\bin\AnyCPU\Debug\BodyBasics-WPF.pdb
+D:\Kinect\BodyBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+D:\Kinect\BodyBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+D:\Kinect\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.csprojAssemblyReference.cache
+D:\Kinect\BodyBasics-WPF\obj\Debug\MainWindow.baml
+D:\Kinect\BodyBasics-WPF\obj\Debug\MainWindow.g.cs
+D:\Kinect\BodyBasics-WPF\obj\Debug\App.g.cs
+D:\Kinect\BodyBasics-WPF\obj\Debug\BodyBasics-WPF_MarkupCompile.cache
+D:\Kinect\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.g.resources
+D:\Kinect\BodyBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.BodyBasics.Properties.Resources.resources
+D:\Kinect\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.csproj.GenerateResource.cache
+D:\Kinect\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.csproj.CoreCompileInputs.cache
+D:\Kinect\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.csproj.CopyComplete
+D:\Kinect\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.exe
+D:\Kinect\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.pdb
+C:\Users\Vando Hai-jin\Downloads\Compressed\KINECT_miniDLP-master\bin\AnyCPU\Debug\BodyBasics-WPF.exe.config
+C:\Users\Vando Hai-jin\Downloads\Compressed\KINECT_miniDLP-master\bin\AnyCPU\Debug\BodyBasics-WPF.exe
+C:\Users\Vando Hai-jin\Downloads\Compressed\KINECT_miniDLP-master\bin\AnyCPU\Debug\BodyBasics-WPF.pdb
+C:\Users\Vando Hai-jin\Downloads\Compressed\KINECT_miniDLP-master\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+C:\Users\Vando Hai-jin\Downloads\Compressed\KINECT_miniDLP-master\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+C:\Users\Vando Hai-jin\Downloads\Compressed\KINECT_miniDLP-master\obj\Debug\BodyBasics-WPF.csprojAssemblyReference.cache
+C:\Users\Vando Hai-jin\Downloads\Compressed\KINECT_miniDLP-master\obj\Debug\MainWindow.baml
+C:\Users\Vando Hai-jin\Downloads\Compressed\KINECT_miniDLP-master\obj\Debug\MainWindow.g.cs
+C:\Users\Vando Hai-jin\Downloads\Compressed\KINECT_miniDLP-master\obj\Debug\App.g.cs
+C:\Users\Vando Hai-jin\Downloads\Compressed\KINECT_miniDLP-master\obj\Debug\BodyBasics-WPF_MarkupCompile.cache
+C:\Users\Vando Hai-jin\Downloads\Compressed\KINECT_miniDLP-master\obj\Debug\BodyBasics-WPF.g.resources
+C:\Users\Vando Hai-jin\Downloads\Compressed\KINECT_miniDLP-master\obj\Debug\Microsoft.Samples.Kinect.BodyBasics.Properties.Resources.resources
+C:\Users\Vando Hai-jin\Downloads\Compressed\KINECT_miniDLP-master\obj\Debug\BodyBasics-WPF.csproj.GenerateResource.cache
+C:\Users\Vando Hai-jin\Downloads\Compressed\KINECT_miniDLP-master\obj\Debug\BodyBasics-WPF.csproj.CoreCompileInputs.cache
+C:\Users\Vando Hai-jin\Downloads\Compressed\KINECT_miniDLP-master\obj\Debug\BodyBasics-WPF.csproj.CopyComplete
+C:\Users\Vando Hai-jin\Downloads\Compressed\KINECT_miniDLP-master\obj\Debug\BodyBasics-WPF.exe
+C:\Users\Vando Hai-jin\Downloads\Compressed\KINECT_miniDLP-master\obj\Debug\BodyBasics-WPF.pdb
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\14_C# - HW3 [Mini DLP]\bin\AnyCPU\Debug\BodyBasics-WPF.exe.config
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\14_C# - HW3 [Mini DLP]\bin\AnyCPU\Debug\BodyBasics-WPF.exe
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\14_C# - HW3 [Mini DLP]\bin\AnyCPU\Debug\BodyBasics-WPF.pdb
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\14_C# - HW3 [Mini DLP]\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\14_C# - HW3 [Mini DLP]\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\14_C# - HW3 [Mini DLP]\obj\Debug\BodyBasics-WPF.csprojAssemblyReference.cache
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\14_C# - HW3 [Mini DLP]\obj\Debug\MainWindow.baml
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\14_C# - HW3 [Mini DLP]\obj\Debug\MainWindow.g.cs
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\14_C# - HW3 [Mini DLP]\obj\Debug\App.g.cs
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\14_C# - HW3 [Mini DLP]\obj\Debug\BodyBasics-WPF_MarkupCompile.cache
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\14_C# - HW3 [Mini DLP]\obj\Debug\BodyBasics-WPF.g.resources
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\14_C# - HW3 [Mini DLP]\obj\Debug\Microsoft.Samples.Kinect.BodyBasics.Properties.Resources.resources
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\14_C# - HW3 [Mini DLP]\obj\Debug\BodyBasics-WPF.csproj.GenerateResource.cache
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\14_C# - HW3 [Mini DLP]\obj\Debug\BodyBasics-WPF.csproj.CoreCompileInputs.cache
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\14_C# - HW3 [Mini DLP]\obj\Debug\BodyBasics-WPF.csproj.CopyComplete
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\14_C# - HW3 [Mini DLP]\obj\Debug\BodyBasics-WPF.exe
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\14_C# - HW3 [Mini DLP]\obj\Debug\BodyBasics-WPF.pdb
