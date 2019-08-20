@@ -1,0 +1,7 @@
+D:\_Gaje\Face API Framework\Face_Recognition\Face_Recognition\bin\Debug\Face_Recognition.exe.config
+D:\_Gaje\Face API Framework\Face_Recognition\Face_Recognition\bin\Debug\Face_Recognition.exe
+D:\_Gaje\Face API Framework\Face_Recognition\Face_Recognition\bin\Debug\Face_Recognition.pdb
+D:\_Gaje\Face API Framework\Face_Recognition\Face_Recognition\obj\Debug\Face_Recognition.csprojAssemblyReference.cache
+D:\_Gaje\Face API Framework\Face_Recognition\Face_Recognition\obj\Debug\Face_Recognition.csproj.CoreCompileInputs.cache
+D:\_Gaje\Face API Framework\Face_Recognition\Face_Recognition\obj\Debug\Face_Recognition.exe
+D:\_Gaje\Face API Framework\Face_Recognition\Face_Recognition\obj\Debug\Face_Recognition.pdb
