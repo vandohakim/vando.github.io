@@ -1,0 +1,125 @@
+D:\VGAH\continue\DiscreteGestureBasics-WPF\bin\x86\Debug\Database\gbcont.gbd
+D:\VGAH\continue\DiscreteGestureBasics-WPF\bin\x86\Debug\Database\Seated.gbd
+D:\VGAH\continue\DiscreteGestureBasics-WPF\bin\x86\Debug\DiscreteGestureBasics-WPF.exe.config
+D:\VGAH\continue\DiscreteGestureBasics-WPF\bin\x86\Debug\DiscreteGestureBasics-WPF.exe
+D:\VGAH\continue\DiscreteGestureBasics-WPF\bin\x86\Debug\DiscreteGestureBasics-WPF.pdb
+D:\VGAH\continue\DiscreteGestureBasics-WPF\bin\x86\Debug\Microsoft.Kinect.dll
+D:\VGAH\continue\DiscreteGestureBasics-WPF\bin\x86\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+D:\VGAH\continue\DiscreteGestureBasics-WPF\bin\x86\Debug\Microsoft.Kinect.xml
+D:\VGAH\continue\DiscreteGestureBasics-WPF\bin\x86\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+D:\VGAH\continue\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF.csprojAssemblyReference.cache
+D:\VGAH\continue\DiscreteGestureBasics-WPF\obj\x86\Debug\MainWindow.g.cs
+D:\VGAH\continue\DiscreteGestureBasics-WPF\obj\x86\Debug\App.g.cs
+D:\VGAH\continue\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF_Content.g.cs
+D:\VGAH\continue\DiscreteGestureBasics-WPF\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\VGAH\continue\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF_MarkupCompile.cache
+D:\VGAH\continue\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF_MarkupCompile.lref
+D:\VGAH\continue\DiscreteGestureBasics-WPF\obj\x86\Debug\MainWindow.baml
+D:\VGAH\continue\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF.g.resources
+D:\VGAH\continue\DiscreteGestureBasics-WPF\obj\x86\Debug\Microsoft.Samples.Kinect.DiscreteGestureBasics.Properties.Resources.resources
+D:\VGAH\continue\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF.csproj.GenerateResource.cache
+D:\VGAH\continue\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF.csproj.CoreCompileInputs.cache
+D:\VGAH\continue\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF.csproj.CopyComplete
+D:\VGAH\continue\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF.exe
+D:\VGAH\continue\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF.pdb
+D:\VGAH\continue\DiscreteGestureBasics-WPF\bin\x86\Debug\Database\gbcontProgress_Left.gba
+D:\VGAH\continue\DiscreteGestureBasics-WPF\bin\x86\Debug\Database\gb6.gbd
+D:\VGAH\ContinueGestureBasics-WPF\bin\x86\Debug\Database\gbcont.gbd
+D:\VGAH\ContinueGestureBasics-WPF\bin\x86\Debug\Database\gbcontProgress_Left.gba
+D:\VGAH\ContinueGestureBasics-WPF\bin\x86\Debug\Database\gb6.gbd
+D:\VGAH\ContinueGestureBasics-WPF\bin\x86\Debug\Database\Seated.gbd
+D:\VGAH\ContinueGestureBasics-WPF\bin\x86\Debug\DiscreteGestureBasics-WPF.exe.config
+D:\VGAH\ContinueGestureBasics-WPF\bin\x86\Debug\DiscreteGestureBasics-WPF.exe
+D:\VGAH\ContinueGestureBasics-WPF\bin\x86\Debug\DiscreteGestureBasics-WPF.pdb
+D:\VGAH\ContinueGestureBasics-WPF\bin\x86\Debug\Microsoft.Kinect.dll
+D:\VGAH\ContinueGestureBasics-WPF\bin\x86\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+D:\VGAH\ContinueGestureBasics-WPF\bin\x86\Debug\Microsoft.Kinect.xml
+D:\VGAH\ContinueGestureBasics-WPF\bin\x86\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+D:\VGAH\ContinueGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF.csprojAssemblyReference.cache
+D:\VGAH\ContinueGestureBasics-WPF\obj\x86\Debug\MainWindow.g.cs
+D:\VGAH\ContinueGestureBasics-WPF\obj\x86\Debug\App.g.cs
+D:\VGAH\ContinueGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF_Content.g.cs
+D:\VGAH\ContinueGestureBasics-WPF\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\VGAH\ContinueGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF_MarkupCompile.cache
+D:\VGAH\ContinueGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF_MarkupCompile.lref
+D:\VGAH\ContinueGestureBasics-WPF\obj\x86\Debug\MainWindow.baml
+D:\VGAH\ContinueGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF.g.resources
+D:\VGAH\ContinueGestureBasics-WPF\obj\x86\Debug\Microsoft.Samples.Kinect.DiscreteGestureBasics.Properties.Resources.resources
+D:\VGAH\ContinueGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF.csproj.GenerateResource.cache
+D:\VGAH\ContinueGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF.csproj.CoreCompileInputs.cache
+D:\VGAH\ContinueGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF.csproj.CopyComplete
+D:\VGAH\ContinueGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF.exe
+D:\VGAH\ContinueGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF.pdb
+D:\VGAH\ContinueGestureBasics-WPF\bin\x86\Debug\Database\gb7.gbd
+D:\VGAH\ContinueGestureBasics-WPF\bin\x86\Debug\Database\gb8.gbd
+D:\VGAH\ContinueGestureBasics-WPF\bin\x86\Debug\Database\gbfix.gbd
+D:\VGAH\ContinueGestureBasics-WPF\bin\x86\Debug\Database\jadidong.gbd
+D:\VGAH\ContinueGestureBasics-WPF\bin\x86\Debug\Database\gbaja1.gbd
+D:\VGAH\ContinueGestureBasics-WPF\bin\x86\Debug\Database\vga.gbd
+D:\VGAH\ContinueGestureBasics-WPF\bin\x86\Debug\Database\pink.gbd
+D:\VGAH\ContinueGestureBasics-WPF\bin\x86\Debug\Database\pinkb.gbd
+D:\VGAH\ContinueGestureBasics-WPF\bin\x86\Debug\Database\pinkkeri.gbd
+D:\VGAH\ContinueGestureBasics-WPF\bin\x86\Debug\Database\pinkfix.gbd
+D:\VGAH\ContinueGestureBasics-WPF\bin\x86\Debug\Database\mix2.gbd
+D:\VGAH\ContinueGestureBasics-WPF\bin\x86\Debug\Database\studio.gbd
+D:\VGAH\Fix Gesture\ContinueGestureBasics-WPF\bin\x86\Debug\Database\gbcont.gbd
+D:\VGAH\Fix Gesture\ContinueGestureBasics-WPF\bin\x86\Debug\Database\gbcontProgress_Left.gba
+D:\VGAH\Fix Gesture\ContinueGestureBasics-WPF\bin\x86\Debug\Database\gb6.gbd
+D:\VGAH\Fix Gesture\ContinueGestureBasics-WPF\bin\x86\Debug\Database\gb7.gbd
+D:\VGAH\Fix Gesture\ContinueGestureBasics-WPF\bin\x86\Debug\Database\gb8.gbd
+D:\VGAH\Fix Gesture\ContinueGestureBasics-WPF\bin\x86\Debug\Database\gbfix.gbd
+D:\VGAH\Fix Gesture\ContinueGestureBasics-WPF\bin\x86\Debug\Database\jadidong.gbd
+D:\VGAH\Fix Gesture\ContinueGestureBasics-WPF\bin\x86\Debug\Database\gbaja1.gbd
+D:\VGAH\Fix Gesture\ContinueGestureBasics-WPF\bin\x86\Debug\Database\vga.gbd
+D:\VGAH\Fix Gesture\ContinueGestureBasics-WPF\bin\x86\Debug\Database\pink.gbd
+D:\VGAH\Fix Gesture\ContinueGestureBasics-WPF\bin\x86\Debug\Database\pinkb.gbd
+D:\VGAH\Fix Gesture\ContinueGestureBasics-WPF\bin\x86\Debug\Database\pinkkeri.gbd
+D:\VGAH\Fix Gesture\ContinueGestureBasics-WPF\bin\x86\Debug\Database\pinkfix.gbd
+D:\VGAH\Fix Gesture\ContinueGestureBasics-WPF\bin\x86\Debug\Database\mix2.gbd
+D:\VGAH\Fix Gesture\ContinueGestureBasics-WPF\bin\x86\Debug\Database\studio.gbd
+D:\VGAH\Fix Gesture\ContinueGestureBasics-WPF\bin\x86\Debug\Database\Seated.gbd
+D:\VGAH\Fix Gesture\ContinueGestureBasics-WPF\bin\x86\Debug\DiscreteGestureBasics-WPF.exe.config
+D:\VGAH\Fix Gesture\ContinueGestureBasics-WPF\bin\x86\Debug\DiscreteGestureBasics-WPF.exe
+D:\VGAH\Fix Gesture\ContinueGestureBasics-WPF\bin\x86\Debug\DiscreteGestureBasics-WPF.pdb
+D:\VGAH\Fix Gesture\ContinueGestureBasics-WPF\bin\x86\Debug\Microsoft.Kinect.dll
+D:\VGAH\Fix Gesture\ContinueGestureBasics-WPF\bin\x86\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+D:\VGAH\Fix Gesture\ContinueGestureBasics-WPF\bin\x86\Debug\Microsoft.Kinect.xml
+D:\VGAH\Fix Gesture\ContinueGestureBasics-WPF\bin\x86\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+D:\VGAH\Fix Gesture\ContinueGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF.csprojAssemblyReference.cache
+D:\VGAH\Fix Gesture\ContinueGestureBasics-WPF\obj\x86\Debug\MainWindow.g.cs
+D:\VGAH\Fix Gesture\ContinueGestureBasics-WPF\obj\x86\Debug\App.g.cs
+D:\VGAH\Fix Gesture\ContinueGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF_Content.g.cs
+D:\VGAH\Fix Gesture\ContinueGestureBasics-WPF\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\VGAH\Fix Gesture\ContinueGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF_MarkupCompile.cache
+D:\VGAH\Fix Gesture\ContinueGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF_MarkupCompile.lref
+D:\VGAH\Fix Gesture\ContinueGestureBasics-WPF\obj\x86\Debug\MainWindow.baml
+D:\VGAH\Fix Gesture\ContinueGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF.g.resources
+D:\VGAH\Fix Gesture\ContinueGestureBasics-WPF\obj\x86\Debug\Microsoft.Samples.Kinect.DiscreteGestureBasics.Properties.Resources.resources
+D:\VGAH\Fix Gesture\ContinueGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF.csproj.GenerateResource.cache
+D:\VGAH\Fix Gesture\ContinueGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF.csproj.CoreCompileInputs.cache
+D:\VGAH\Fix Gesture\ContinueGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF.csproj.CopyComplete
+D:\VGAH\Fix Gesture\ContinueGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF.exe
+D:\VGAH\Fix Gesture\ContinueGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF.pdb
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\17_AI - Gesture Recognition\ContinueGestureBasics-WPF\bin\x86\Debug\Database\studio.gbd
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\17_AI - Gesture Recognition\ContinueGestureBasics-WPF\bin\x86\Debug\DiscreteGestureBasics-WPF.exe.config
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\17_AI - Gesture Recognition\ContinueGestureBasics-WPF\bin\x86\Debug\DiscreteGestureBasics-WPF.exe
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\17_AI - Gesture Recognition\ContinueGestureBasics-WPF\bin\x86\Debug\DiscreteGestureBasics-WPF.pdb
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\17_AI - Gesture Recognition\ContinueGestureBasics-WPF\bin\x86\Debug\Microsoft.Kinect.dll
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\17_AI - Gesture Recognition\ContinueGestureBasics-WPF\bin\x86\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\17_AI - Gesture Recognition\ContinueGestureBasics-WPF\bin\x86\Debug\Microsoft.Kinect.xml
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\17_AI - Gesture Recognition\ContinueGestureBasics-WPF\bin\x86\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\17_AI - Gesture Recognition\ContinueGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF.csprojAssemblyReference.cache
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\17_AI - Gesture Recognition\ContinueGestureBasics-WPF\obj\x86\Debug\MainWindow.g.cs
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\17_AI - Gesture Recognition\ContinueGestureBasics-WPF\obj\x86\Debug\App.g.cs
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\17_AI - Gesture Recognition\ContinueGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF_Content.g.cs
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\17_AI - Gesture Recognition\ContinueGestureBasics-WPF\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\17_AI - Gesture Recognition\ContinueGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF_MarkupCompile.cache
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\17_AI - Gesture Recognition\ContinueGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF_MarkupCompile.lref
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\17_AI - Gesture Recognition\ContinueGestureBasics-WPF\obj\x86\Debug\MainWindow.baml
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\17_AI - Gesture Recognition\ContinueGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF.g.resources
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\17_AI - Gesture Recognition\ContinueGestureBasics-WPF\obj\x86\Debug\Microsoft.Samples.Kinect.DiscreteGestureBasics.Properties.Resources.resources
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\17_AI - Gesture Recognition\ContinueGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF.csproj.GenerateResource.cache
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\17_AI - Gesture Recognition\ContinueGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF.csproj.CoreCompileInputs.cache
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\17_AI - Gesture Recognition\ContinueGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF.csproj.CopyComplete
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\17_AI - Gesture Recognition\ContinueGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF.exe
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\17_AI - Gesture Recognition\ContinueGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF.pdb

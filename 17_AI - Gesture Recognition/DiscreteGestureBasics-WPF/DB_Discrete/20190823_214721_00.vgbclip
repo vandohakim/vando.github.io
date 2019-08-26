@@ -1,0 +1,1939 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GestureBuilderFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<ClipFile>
+		<Header>
+			<Date>2019-08-24</Date>
+			<Time>08:48:22.6697888+08:00</Time>
+			<Version>1</Version>
+			<Type>XefClip</Type>
+			<Clip>20190823_214721_00.xef</Clip>
+			<StartFrame>4692</StartFrame>
+			<EndFrame>9040</EndFrame>
+			<ID>3fe86457-9ab8-46c1-b084-08eb3cea092c</ID>
+		</Header>
+		<UI_State>
+			<CurrentFrameStart>7074</CurrentFrameStart>
+			<CurrentFrameEnd>7075</CurrentFrameEnd>
+			<AttributeInterpolations />
+			<AttributeKeys />
+		</UI_State>
+		<AutoTagged />
+		<Attributes>
+			<Items xsi:type="StringAttribute" Name="Name" Value="" />
+			<Items xsi:type="IntAttribute" Name="Age" Value="0" />
+			<Items xsi:type="FloatAttribute" Name="Weight" Value="0" />
+			<Items xsi:type="FloatAttribute" Name="Height" Value="0" />
+			<Items xsi:type="StringAttribute" Name="Handedness" Value="Right" />
+		</Attributes>
+		<ClipAttributes>
+			<Items Frame="4960">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="4961">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="4962">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="4963">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="4964">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="4965">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="4966">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="4967">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="4968">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="4969">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="4970">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="4971">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="4972">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="4973">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="4974">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="4975">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="4976">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="4977">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="4978">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="4979">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="4980">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="4981">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="4982">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="4983">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="4984">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="4985">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="4986">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="4987">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="4988">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="4989">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="4990">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="4991">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="4992">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="4993">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="4994">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="4995">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="4996">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="4997">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="4998">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="4999">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5000">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5001">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5002">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5003">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5004">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5005">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5006">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5007">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5008">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5009">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5010">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5011">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5012">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5013">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5014">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5015">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5016">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5017">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5018">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5019">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5020">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5021">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5022">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5023">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5024">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5025">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5026">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5027">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5028">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5029">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5030">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5031">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5032">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5033">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5034">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5035">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5036">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5037">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5038">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5039">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5040">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5041">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5042">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5043">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5044">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5045">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5046">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5047">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5048">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5049">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5050">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5051">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5052">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5053">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5054">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5055">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5056">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5057">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5058">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5059">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5060">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5061">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5062">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5063">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5064">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5065">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5066">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5067">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5068">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5069">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5070">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5071">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5072">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5073">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5074">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5075">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5076">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5077">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5078">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5079">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5080">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5081">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5082">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5083">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5084">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5085">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5086">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5087">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5088">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5089">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5090">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5091">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5092">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5093">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5094">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5095">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5096">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5097">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5098">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5099">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5100">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5101">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5102">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5103">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5104">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5105">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5106">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5107">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5108">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5109">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5489">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5490">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5491">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5492">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5493">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5494">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5495">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5496">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5497">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5498">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5499">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5500">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5501">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5502">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5503">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5504">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5505">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5506">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5507">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5508">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5509">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5510">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5511">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5512">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5513">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5514">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5515">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5516">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5517">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5518">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5519">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5520">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5521">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5522">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5523">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5524">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5525">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5526">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5527">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5528">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5529">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5530">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5531">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5532">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5533">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5534">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5535">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5536">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5537">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5538">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5539">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5540">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5541">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5542">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5543">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5544">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5545">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5546">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5547">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5548">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5549">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5550">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5551">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5552">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5553">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5554">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5555">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5556">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5557">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5558">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5559">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5560">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5561">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5562">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5563">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5564">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5565">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5566">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5567">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5568">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5569">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5570">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5571">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5572">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5573">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5574">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5575">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5576">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5577">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5578">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5579">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5580">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5581">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5582">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5583">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5584">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5585">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5586">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5587">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5588">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5589">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5590">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5591">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5592">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5593">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5594">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5595">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5596">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5597">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5598">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5599">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5600">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5601">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5602">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5603">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5604">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5605">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5606">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5607">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5608">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5609">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5610">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5611">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5612">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5613">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5614">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5615">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5616">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5617">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5618">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5619">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5620">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5750">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5751">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5752">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5753">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5754">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5755">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5756">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5757">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5758">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5759">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5760">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5761">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5762">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5763">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5764">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5765">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5766">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5767">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5768">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5769">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5770">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5771">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5772">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5773">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5774">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5775">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5776">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5777">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5778">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5779">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5780">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5876">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5877">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5878">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5879">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5880">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5881">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5882">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5883">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5884">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5885">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5886">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5887">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5888">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5889">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5890">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5891">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5892">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5893">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5894">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5895">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5896">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5897">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5898">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5899">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5900">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5901">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5902">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5903">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5904">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5905">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5906">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5907">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5908">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5909">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5910">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5911">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5997">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5998">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="5999">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6000">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6001">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6002">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6003">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6004">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6005">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6006">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6007">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6008">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6009">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6010">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6011">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6012">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6013">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6014">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6015">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6016">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6017">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6018">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6019">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6020">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6021">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6022">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6023">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6024">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6025">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6026">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6027">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6028">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6029">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6030">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6031">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6032">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6033">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6034">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6035">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6036">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6116">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6117">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6118">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6119">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6120">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6121">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6122">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6123">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6124">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6125">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6126">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6127">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6128">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6129">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6130">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6131">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6132">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6133">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6134">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6135">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6136">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6137">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6138">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6139">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6140">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6141">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6204">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6205">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6206">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6207">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6208">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6209">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6210">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6211">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6212">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6213">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6214">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6215">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6216">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6217">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6218">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6219">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6220">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6221">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6222">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6223">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6224">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6225">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6226">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6227">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6299">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6300">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6301">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6302">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6303">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6304">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6305">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6306">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6307">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6308">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6309">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6310">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6311">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6312">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6313">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6314">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6315">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6316">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6317">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6318">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6319">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6320">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6321">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6322">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6323">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6324">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6325">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6326">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6327">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6328">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6329">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6330">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6331">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6332">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6333">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6334">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6335">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6336">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6337">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6338">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6339">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6340">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6341">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6342">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6343">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6344">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6345">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6346">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6347">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6348">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6349">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6350">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6351">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6352">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6353">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6354">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6355">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6356">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6357">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6358">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6359">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6360">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6361">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6362">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6363">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6364">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6365">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6366">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6367">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6368">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6369">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6370">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6371">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6372">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6373">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6374">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6375">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6376">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6377">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6378">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6379">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6380">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6381">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6382">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6383">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6384">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6385">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6386">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6387">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6388">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6389">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6390">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6391">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6392">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6941">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6942">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6943">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6944">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6945">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6946">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6947">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6948">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6949">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6950">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6951">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6952">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6953">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6954">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6955">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6956">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6957">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6958">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6959">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6960">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6961">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6962">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6963">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6964">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6965">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6966">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6967">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6968">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6969">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6970">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6971">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6972">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6973">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6974">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6975">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6976">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6977">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6978">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6979">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6980">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6981">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6982">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6983">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6984">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6985">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6986">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6987">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6988">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6989">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6990">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6991">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6992">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6993">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6994">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6995">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6996">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6997">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6998">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="6999">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="7000">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="7001">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="7064">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="7065">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="7066">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="7067">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="7068">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="7069">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="7070">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="7071">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="7072">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="7073">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="7074">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="7075">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="7076">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="7077">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="7078">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="7138">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="7139">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="7140">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="7141">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="7142">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="7143">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="7144">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="7145">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="7146">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="7147">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="7148">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="7149">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="7150">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="7151">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="7152">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="7153">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="7154">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="7217">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="7218">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="7219">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="7220">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="7221">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="7222">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="7223">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="7224">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="7225">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+			<Items Frame="7226">
+				<Items xsi:type="BoolAttribute" Name="ultraneo_Left" Value="true" />
+			</Items>
+		</ClipAttributes>
+	</ClipFile>
+</GestureBuilderFile>

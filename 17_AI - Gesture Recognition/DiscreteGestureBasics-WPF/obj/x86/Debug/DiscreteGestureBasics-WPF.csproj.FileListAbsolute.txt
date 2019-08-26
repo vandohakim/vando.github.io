@@ -1,0 +1,50 @@
+D:\VGAH\DiscreteGestureBasics-WPF\bin\x86\Debug\DiscreteGestureBasics-WPF.exe.config
+D:\VGAH\DiscreteGestureBasics-WPF\bin\x86\Debug\DiscreteGestureBasics-WPF.exe
+D:\VGAH\DiscreteGestureBasics-WPF\bin\x86\Debug\DiscreteGestureBasics-WPF.pdb
+D:\VGAH\DiscreteGestureBasics-WPF\bin\x86\Debug\Microsoft.Kinect.dll
+D:\VGAH\DiscreteGestureBasics-WPF\bin\x86\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+D:\VGAH\DiscreteGestureBasics-WPF\bin\x86\Debug\Microsoft.Kinect.xml
+D:\VGAH\DiscreteGestureBasics-WPF\bin\x86\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+D:\VGAH\DiscreteGestureBasics-WPF\obj\x86\Debug\MainWindow.g.cs
+D:\VGAH\DiscreteGestureBasics-WPF\obj\x86\Debug\App.g.cs
+D:\VGAH\DiscreteGestureBasics-WPF\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\VGAH\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF_MarkupCompile.cache
+D:\VGAH\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF_MarkupCompile.lref
+D:\VGAH\DiscreteGestureBasics-WPF\obj\x86\Debug\MainWindow.baml
+D:\VGAH\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF.g.resources
+D:\VGAH\DiscreteGestureBasics-WPF\obj\x86\Debug\Microsoft.Samples.Kinect.DiscreteGestureBasics.Properties.Resources.resources
+D:\VGAH\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF.csproj.GenerateResource.cache
+D:\VGAH\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF.csproj.CoreCompileInputs.cache
+D:\VGAH\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF.csproj.CopyComplete
+D:\VGAH\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF.exe
+D:\VGAH\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF.pdb
+D:\VGAH\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF.csprojAssemblyReference.cache
+D:\VGAH\DiscreteGestureBasics-WPF\bin\x86\Debug\Database\Seated.gbd
+D:\VGAH\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF_Content.g.cs
+D:\VGAH\DiscreteGestureBasics-WPF\bin\x86\Debug\Database\guntingbesar.gba
+D:\VGAH\DiscreteGestureBasics-WPF\bin\x86\Debug\Database\guntingbesar2.gba
+D:\VGAH\DiscreteGestureBasics-WPF\bin\x86\Debug\Database\gb4.gba
+D:\VGAH\DiscreteGestureBasics-WPF\bin\x86\Debug\Database\studiodiscrete.gbd
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\17_AI - Gesture Recognition\DiscreteGestureBasics-WPF\bin\x86\Debug\Microsoft.Kinect.dll
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\17_AI - Gesture Recognition\DiscreteGestureBasics-WPF\bin\x86\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\17_AI - Gesture Recognition\DiscreteGestureBasics-WPF\bin\x86\Debug\Microsoft.Kinect.xml
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\17_AI - Gesture Recognition\DiscreteGestureBasics-WPF\bin\x86\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\17_AI - Gesture Recognition\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF.csprojAssemblyReference.cache
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\17_AI - Gesture Recognition\DiscreteGestureBasics-WPF\obj\x86\Debug\MainWindow.g.cs
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\17_AI - Gesture Recognition\DiscreteGestureBasics-WPF\obj\x86\Debug\App.g.cs
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\17_AI - Gesture Recognition\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF_Content.g.cs
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\17_AI - Gesture Recognition\DiscreteGestureBasics-WPF\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\17_AI - Gesture Recognition\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF_MarkupCompile.cache
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\17_AI - Gesture Recognition\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF_MarkupCompile.lref
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\17_AI - Gesture Recognition\DiscreteGestureBasics-WPF\obj\x86\Debug\MainWindow.baml
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\17_AI - Gesture Recognition\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF.g.resources
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\17_AI - Gesture Recognition\DiscreteGestureBasics-WPF\obj\x86\Debug\Microsoft.Samples.Kinect.DiscreteGestureBasics.Properties.Resources.resources
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\17_AI - Gesture Recognition\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF.csproj.GenerateResource.cache
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\17_AI - Gesture Recognition\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF.csproj.CoreCompileInputs.cache
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\17_AI - Gesture Recognition\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF.csproj.CopyComplete
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\17_AI - Gesture Recognition\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF.exe
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\17_AI - Gesture Recognition\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF.pdb
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\17_AI - Gesture Recognition\DiscreteGestureBasics-WPF\bin\x86\Debug\Database\ultraneo_with_false.gbd
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\17_AI - Gesture Recognition\DiscreteGestureBasics-WPF\bin\x86\Debug\DiscreteGestureBasics-WPF.exe.config
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\17_AI - Gesture Recognition\DiscreteGestureBasics-WPF\bin\x86\Debug\DiscreteGestureBasics-WPF.exe
+D:\HCI_Learning Lab\Summer Vocation\vandohakim.github.io\17_AI - Gesture Recognition\DiscreteGestureBasics-WPF\bin\x86\Debug\DiscreteGestureBasics-WPF.pdb

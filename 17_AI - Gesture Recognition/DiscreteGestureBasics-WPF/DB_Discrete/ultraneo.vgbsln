@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GestureBuilderFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<SolutionFile>
+		<Header>
+			<Date>2019-08-24</Date>
+			<Time>06:41:11.6103833+08:00</Time>
+			<Version>1</Version>
+			<Type>Solution</Type>
+			<ID>91efc823-bb82-4a0d-b238-ea786dbd565e</ID>
+		</Header>
+		<Solution_Data>
+			<Files>
+				<Name />
+				<Content>
+					<Items>
+						<File>ultraneo_Left.vgbproj</File>
+					</Items>
+					<Items>
+						<File>ultraneo_Left.a.vgbproj</File>
+					</Items>
+				</Content>
+			</Files>
+		</Solution_Data>
+		<UI_State />
+		<Attributes />
+	</SolutionFile>
+</GestureBuilderFile>

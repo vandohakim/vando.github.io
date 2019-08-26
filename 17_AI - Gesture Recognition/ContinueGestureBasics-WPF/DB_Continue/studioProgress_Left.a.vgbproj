@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GestureBuilderFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<ProjectFile>
+		<Header>
+			<Date>2019-08-23</Date>
+			<Time>13:41:54.0296661+08:00</Time>
+			<Version>5</Version>
+			<Type>RFRProgress</Type>
+			<Function>
+				<Type>Analysis</Type>
+				<ProjectAttribute Name="studioProgress_Left" Type="FLOAT" />
+			</Function>
+			<ID>ab2dfa0b-5aca-4b3f-9208-d0aaf74ba2b3</ID>
+		</Header>
+		<Project_Data>
+			<Files>
+				<Name />
+				<Content>
+					<Items>
+						<File>../../20190823_052248_00.vgbclip</File>
+					</Items>
+				</Content>
+			</Files>
+		</Project_Data>
+		<UI_State />
+		<Attributes>
+			<Items xsi:type="BoolAttribute" Name="Mirror Left Right" Value="false" />
+		</Attributes>
+	</ProjectFile>
+</GestureBuilderFile>
