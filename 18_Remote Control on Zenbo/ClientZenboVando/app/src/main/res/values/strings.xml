@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ClientZenboVando</string>
+
+    <string-array name="robot_face">
+        <item>AWARE_LEFT</item>
+        <item>AWARE_RIGHT</item>
+        <item>DOUBTING</item>
+        <item>EXPECTING</item>
+        <item>HELPLESS</item>
+        <item>IMPATIENT</item>
+        <item>QUESTIONING</item>
+        <item>SHOCKED</item>
+        <item>WORRIED</item>
+    </string-array>
+</resources>

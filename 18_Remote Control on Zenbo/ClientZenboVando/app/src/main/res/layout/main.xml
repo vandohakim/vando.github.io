@@ -1,0 +1,176 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Client" >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:autoLink="web"
+        android:text="[Android - Android] Socket"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Chat Client"
+        android:textStyle="bold" />
+
+    <LinearLayout
+        android:id="@+id/loginpanel"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:visibility="visible" >
+
+        <EditText
+            android:id="@+id/username"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="User name" />
+
+        <EditText
+            android:id="@+id/address"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="IP Address" />
+
+        <EditText
+            android:id="@+id/port"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="Port"
+            android:inputType="number" />
+
+        <Button
+            android:id="@+id/connect"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Connect..." />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="YOU'RE DISCONNECTED FROM SERVER"
+            android:textStyle="italic" />
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/chatpanel"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:visibility="gone" >
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="YOU'RE CONNECTED TO SERVER"
+            android:layout_gravity="center_horizontal"
+            android:textStyle="italic" />
+
+        <EditText
+            android:id="@+id/say"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Say something" />
+
+        <Button
+            android:id="@+id/send"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Speak" />
+
+        <Button
+            android:id="@+id/disconnect"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Disconnect" />
+
+        <Spinner
+            android:id="@+id/spinner"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:entries="@array/robot_face" />
+
+        <Button
+            android:id="@+id/btspinner"
+            android:layout_width="match_parent"
+            android:layout_height="36dp"
+            android:text="Set Emotion" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="90dp"
+            android:gravity="center">
+
+            <Button
+                android:id="@+id/forward"
+                android:layout_width="90dp"
+                android:layout_height="90dp"
+                android:text="Forward"
+                android:textAllCaps="false" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="90dp"
+            android:gravity="center">
+
+            <Button
+                android:id="@+id/left"
+                android:layout_width="90dp"
+                android:layout_height="90dp"
+                android:text="Left"
+                android:textAllCaps="false" />
+
+            <TextView
+                android:layout_width="90dp"
+                android:layout_height="90dp"
+                android:gravity="center"
+                android:text="Move"
+                android:textSize="22sp" />
+
+            <Button
+                android:id="@+id/right"
+                android:layout_width="90dp"
+                android:layout_height="90dp"
+                android:text="Right"
+                android:textAllCaps="false" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="90dp"
+            android:gravity="center">
+
+            <Button
+                android:id="@+id/afterward"
+                android:layout_width="90dp"
+                android:layout_height="90dp"
+                android:text="Afterward"
+                android:textAllCaps="false" />
+        </LinearLayout>
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <TextView
+                android:id="@+id/chatmsg"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </ScrollView>
+    </LinearLayout>
+
+</LinearLayout>

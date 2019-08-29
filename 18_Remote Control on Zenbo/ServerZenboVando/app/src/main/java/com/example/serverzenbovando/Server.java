@@ -26,7 +26,14 @@ import java.util.ArrayList;
 import java.util.Enumeration;
 import java.util.List;
 
+import com.asus.robotframework.API.MotionControl;
+import com.asus.robotframework.API.RobotAPI;
+import com.asus.robotframework.API.RobotFace;
+import com.asus.robotframework.API.WheelLights;
+
 public class Server extends AppCompatActivity {
+    private RobotAPI zenbo = null;
+    private MotionControl.SpeedLevel.Body default_speed ;
 
     EditText SocketServerPORT;
 
@@ -48,6 +55,9 @@ public class Server extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+        zenbo = new RobotAPI(getApplicationContext(),null);
+        default_speed = MotionControl.SpeedLevel.Body.L7;
+
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
         SocketServerPORT = (EditText) findViewById(R.id.SocketServerPORT);
@@ -266,9 +276,85 @@ public class Server extends AppCompatActivity {
                     if (dataInputStream.available() > 0) {
                         String newMsg = dataInputStream.readUTF();
 
+                        switch (newMsg){
+                            case "":
+                        }
                         if (newMsg.contains("///Exit///")){
                             break;
                         }
+                        String[] talk = newMsg.split("Speak: ");
+                        if (newMsg.contains("Speak: ")){
+                            zenbo.robot.speak(talk[1], 2);
+                        }
+
+                        if (newMsg.contains("AWARE_LEFT")){
+                            zenbo.robot.setExpression(RobotFace.AWARE_LEFT,"AWARE_LEFT");
+                            zenbo.motion.moveHead(30,15, MotionControl.SpeedLevel.Head.L2);
+                            zenbo.motion.moveHead(0,0, MotionControl.SpeedLevel.Head.L1);
+                        }
+                        if (newMsg.contains("AWARE_RIGHT")){
+                            zenbo.robot.setExpression(RobotFace.AWARE_RIGHT,"AWARE_RIGHT");
+                            zenbo.motion.moveHead(-30,15, MotionControl.SpeedLevel.Head.L2);
+                            zenbo.motion.moveHead(0,0, MotionControl.SpeedLevel.Head.L1);
+                        }
+                        if (newMsg.contains("DOUBTING")){
+                            zenbo.robot.setExpression(RobotFace.DOUBTING,"DOUBTING");
+                            zenbo.motion.moveHead(0,30, MotionControl.SpeedLevel.Head.L1);
+                            zenbo.motion.moveHead(0,0, MotionControl.SpeedLevel.Head.L1);
+                        }
+                        if (newMsg.contains("EXPECTING")){
+                            zenbo.robot.setExpression(RobotFace.EXPECTING,"EXPECTING");
+                            zenbo.motion.moveHead(0,30, MotionControl.SpeedLevel.Head.L1);
+                            zenbo.motion.moveHead(30,30, MotionControl.SpeedLevel.Head.L3);
+                            zenbo.motion.moveHead(-30,30, MotionControl.SpeedLevel.Head.L3);
+                            zenbo.motion.moveHead(0,0, MotionControl.SpeedLevel.Head.L1);
+                        }
+                        if (newMsg.contains("HELPLESS")){
+                            zenbo.robot.setExpression(RobotFace.HELPLESS,"HELPLESS");
+                            zenbo.motion.moveHead(0,15, MotionControl.SpeedLevel.Head.L1);
+                            zenbo.motion.moveHead(10,15, MotionControl.SpeedLevel.Head.L3);
+                            zenbo.motion.moveHead(-10,15, MotionControl.SpeedLevel.Head.L3);
+                            zenbo.motion.moveHead(0,0, MotionControl.SpeedLevel.Head.L1);
+                        }
+                        if (newMsg.contains("IMPATIENT")){
+                            zenbo.robot.setExpression(RobotFace.IMPATIENT,"IMPATIENT");
+                        }
+                        if (newMsg.contains("QUESTIONING")){
+                            zenbo.robot.setExpression(RobotFace.QUESTIONING,"QUESTIONING");
+                            zenbo.motion.moveHead(0,45, MotionControl.SpeedLevel.Head.L3);
+                        }
+                        if (newMsg.contains("SHOCKED")){
+                            zenbo.robot.setExpression(RobotFace.SHOCKED,"SHOCKED");
+                            zenbo.motion.moveHead(0,45, MotionControl.SpeedLevel.Head.L3);
+                        }
+                        if (newMsg.contains("WORRIED")){
+                            zenbo.robot.setExpression(RobotFace.WORRIED,"WORRIED");
+                            zenbo.motion.moveHead(0,-15, MotionControl.SpeedLevel.Head.L1);
+                        }
+
+                        if (newMsg.contains("FORWARD")){
+                            zenbo.motion.stopMoving() ;
+                            zenbo.motion.moveBody(0.5f,0f,0f, MotionControl.SpeedLevel.Body.L7);
+                            zenbo.wheelLights.setColor(WheelLights.Lights.SYNC_BOTH, -1, 0x0000ff00);
+                        }
+                        if (newMsg.contains("KANAN")){
+                            zenbo.motion.stopMoving() ;
+                            zenbo.motion.moveBody(0f,0.5f,0f, MotionControl.SpeedLevel.Body.L7);
+                            zenbo.wheelLights.setColor(WheelLights.Lights.ASYNC_LEFT, -1, 0x00ff0000);
+                            zenbo.wheelLights.setColor(WheelLights.Lights.ASYNC_RIGHT, -1, 0x000000ff);
+                        }
+                        if (newMsg.contains("KIRI")){
+                            zenbo.motion.stopMoving() ;
+                            zenbo.motion.moveBody(0f,-0.5f,0f, MotionControl.SpeedLevel.Body.L7);
+                            zenbo.wheelLights.setColor(WheelLights.Lights.ASYNC_RIGHT, -1, 0x00ff0000);
+                            zenbo.wheelLights.setColor(WheelLights.Lights.ASYNC_LEFT, -1, 0x000000ff);
+                        }
+                        if (newMsg.contains("AFTERWARD")){
+                            zenbo.motion.stopMoving() ;
+                            zenbo.motion.moveBody(-0.5f,0f,0f, MotionControl.SpeedLevel.Body.L7);
+                            zenbo.wheelLights.setColor(WheelLights.Lights.SYNC_BOTH, -1, 0x0000ff00);
+                        }
+
                         msgLog += n + ": " + newMsg;
                         Server.this.runOnUiThread(new Runnable() {
 
